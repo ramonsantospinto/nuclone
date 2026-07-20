@@ -29,20 +29,10 @@ lib/
 🛠️ Como Executar o Projeto
 
 Clone o repositório:
-
-Bash
-
-
 git clone https://github.com/seu-usuario/nuclone.git
+
 Instale as dependências:
-
-Bash
-
-
 flutter pub get
+
 Execute o aplicativo:
-
-Bash
-
-
 flutter run
