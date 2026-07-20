@@ -21,4 +21,3 @@ lib/
 │       ├── data/          # Datasources e implementações de repositório
 │       ├── domain/        # Entidades e casos de uso (UseCases)
 │       └── presentation/  # Cubits, estados, telas e widgets
-
