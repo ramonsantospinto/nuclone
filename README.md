@@ -32,3 +32,9 @@ lib/
    ```bash
    git clone [https://github.com/seu-usuario/nuclone.git](https://github.com/seu-usuario/nuclone.git)
 
+2. **Instale as dependências:**
+   ```bash
+   flutter pub get
+3. **Execute o aplicativo:**
+   ```bash
+   flutter run
