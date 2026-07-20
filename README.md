@@ -22,12 +22,3 @@ lib/
 │       ├── domain/        # Entidades e casos de uso (UseCases)
 │       └── presentation/  # Cubits, estados, telas e widgets
 
-
-🛠️ Como Executar o Projeto
-git clone [https://github.com/seu-usuario/nuclone.git](https://github.com/seu-usuario/nuclone.git)
-
-Instale as dependências:
-flutter pub get
-
-Execute o aplicativo:
-flutter run
