@@ -1,8 +1,8 @@
 # 💜 NuClone — Nubank UI & Clean Architecture
 
-Um clone da interface do Nubank feito em Flutter, construído para colocar em prática (e mostrar na prática) os padrões de arquitetura e boas práticas que uso no dia a dia como desenvolvedor.
+Um clone da interface do Nubank feito em Flutter, construído para demonstrar, na prática, como aplico padrões de arquitetura e boas práticas de mercado em um projeto real.
 
-A ideia aqui não foi só replicar a tela por replicar, mas usar uma UI conhecida como pretexto para aplicar Clean Architecture, gerenciamento de estado reativo e tratamento de erros de forma funcional — os mesmos pilares que sustentam apps em produção.
+Este projeto foi desenvolvido como peça de portfólio técnico, com o objetivo de servir de referência para empresas e recrutadores avaliarem minha capacidade de estruturar um app Flutter seguindo Clean Architecture, separação de responsabilidades e tratamento de erros de forma robusta — os mesmos pilares que sustentam aplicações em produção.
 
 ## 🚀 Tecnologias e Pacotes Utilizados
 
@@ -15,7 +15,7 @@ A ideia aqui não foi só replicar a tela por replicar, mas usar uma UI conhecid
 
 ## 📐 Estrutura do Projeto
 
-A organização segue a separação clássica de camadas, pensada para escalar sem virar bagunça conforme o app cresce:
+A organização segue a separação clássica de camadas, pensada para escalar sem perder manutenibilidade conforme o projeto cresce:
 
 ```text
 lib/
@@ -27,15 +27,13 @@ lib/
 │       └── presentation/  # Cubits, estados, telas e widgets
 ```
 
-Cada feature é isolada e independente — dá pra abrir a pasta de `Pix`, por exemplo, e entender a funcionalidade inteira sem precisar navegar pelo projeto todo.
+Cada feature é isolada e independente — é possível abrir a pasta de `Pix`, por exemplo, e compreender a funcionalidade por completo sem depender do restante do projeto.
 
 ## 🛠️ Como Executar o Projeto
 
-Quer rodar localmente? É só seguir os passos abaixo:
-
 1. **Clone o repositório:**
 ```bash
-   git clone https://github.com/seu-usuario/nuclone.git
+   git clone https://github.com/ramonsantospinto/nuclone.git
 ```
 
 2. **Instale as dependências:**
@@ -50,6 +48,9 @@ Quer rodar localmente? É só seguir os passos abaixo:
 
 ## 💬 Sobre o Projeto
 
-Esse projeto nasceu como um exercício pessoal de arquitetura — uma forma de testar, na prática, conceitos que muita gente só vê na teoria. Se você é dev e está estudando Clean Architecture ou Flutter, sinta-se à vontade para explorar o código, abrir issues ou sugerir melhorias.
+Este repositório foi construído com foco em qualidade de código e decisões arquiteturais consistentes — não como um tutorial ou exercício de estudo, mas como demonstração prática de como estruturo aplicações Flutter no dia a dia profissional.
 
-Feito com 💜 e bastante café.
+Fico à disposição para discutir decisões técnicas, trade-offs de arquitetura ou qualquer ponto do código.
+
+**Ramon Santos Pinto**
+[github.com/ramonsantospinto](https://github.com/ramonsantospinto)
