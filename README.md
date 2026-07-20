@@ -30,7 +30,7 @@ lib/
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/nuclone.git](https://github.com/seu-usuario/nuclone.git)
+   git clone https://github.com/seu-usuario/nuclone.git
 
 2. **Instale as dependências:**
    ```bash
