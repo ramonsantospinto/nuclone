@@ -26,13 +26,9 @@ lib/
 ```
 
 
-🛠️ Como Executar o Projeto
+## 🛠️ Como Executar o Projeto
 
-Clone o repositório:
-git clone https://github.com/seu-usuario/nuclone.git
+1. **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/seu-usuario/nuclone.git](https://github.com/seu-usuario/nuclone.git)
 
-Instale as dependências:
-flutter pub get
-
-Execute o aplicativo:
-flutter run
