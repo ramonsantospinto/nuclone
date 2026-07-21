@@ -15,10 +15,10 @@ Este projeto foi desenvolvido como peça de portfólio técnico, com o objetivo 
   Adicione aqui screenshots ou um GIF do app rodando.
   Sugestão: crie uma pasta /docs/screenshots e referencie as imagens assim:
 
-  <p align="center">
-    <img src="https://i.ibb.co/nMpGkF38/nubank1.jpg" width="22" />
-    <img src="docs/screenshots/pix.png" width="220" />
-  </p>
+<p align="center">
+  <img src="https://i.ibb.co/nMpGkF38/nubank1.jpg" width="220" />
+  <img src="docs/screenshots/pix.png" width="220" />
+</p>
 -->
 
 > 🔧 *Screenshots/GIF em breve.*
