@@ -39,7 +39,7 @@ lib/
 │       └── presentation/  # Cubits, estados, telas e widgets
 ```
 
-Cada feature é isolada e independente — é possível abrir a pasta de `Pix`, por exemplo, e compreender a funcionalidade por completo sem depender do restante do projeto.
+Cada feature é isolada e independente é possível abrir a pasta de `Pix`, por exemplo, e compreender a funcionalidade por completo sem depender do restante do projeto.
 
 ## 🧠 Decisões Técnicas
 
