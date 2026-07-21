@@ -16,7 +16,7 @@ Este projeto foi desenvolvido como peça de portfólio técnico, com o objetivo 
   Sugestão: crie uma pasta /docs/screenshots e referencie as imagens assim:
 
   <p align="center">
-    <img src="docs/screenshots/home.png" width="220" />
+    <img src="https://i.ibb.co/nMpGkF38/nubank1.jpg" width="22" />
     <img src="docs/screenshots/pix.png" width="220" />
   </p>
 -->
