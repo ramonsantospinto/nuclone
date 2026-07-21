@@ -7,7 +7,7 @@
 
 Um clone da interface do Nubank feito em Flutter, construído para demonstrar, na prática, como aplico padrões de arquitetura e boas práticas de mercado em um projeto real.
 
-Este projeto foi desenvolvido como peça de portfólio técnico, com o objetivo de servir de referência para empresas e recrutadores avaliarem minha capacidade de estruturar um app Flutter seguindo Clean Architecture, separação de responsabilidades e tratamento de erros de forma robusta — os mesmos pilares que sustentam aplicações em produção.
+Este projeto foi desenvolvido como peça de portfólio técnico, com o objetivo de servir de referência para empresas e recrutadores avaliarem minha capacidade de estruturar um app Flutter seguindo Clean Architecture, separação de responsabilidades e tratamento de erros de forma robusta os mesmos pilares que sustentam aplicações em produção.
 
 ## 📱 Preview
 
@@ -82,7 +82,7 @@ flutter run
 
 ## 💬 Sobre o Projeto
 
-Este repositório foi construído com foco em qualidade de código e decisões arquiteturais consistentes — não como um tutorial ou exercício de estudo, mas como demonstração prática de como estruturo aplicações Flutter no dia a dia profissional.
+Este repositório foi construído com foco em qualidade de código e decisões arquiteturais consistentes, não como um tutorial ou exercício de estudo, mas como demonstração prática de como estruturo aplicações Flutter no dia a dia profissional.
 
 Fico à disposição para discutir decisões técnicas, trade-offs de arquitetura ou qualquer ponto do código.
 
