@@ -50,8 +50,6 @@ Algumas escolhas de arquitetura e os motivos por trás delas:
 - **`get_it` para injeção de dependência**: desacopla a criação de instâncias das camadas de apresentação, facilitando a substituição de implementações (ex: mocks em testes) sem alterar o código consumidor.
 - **Features isoladas por pasta**: cada feature contém suas próprias camadas `data`/`domain`/`presentation`, evitando acoplamento cruzado e permitindo que qualquer parte do app seja entendida (ou removida) isoladamente.
 
-## ✅ Testes
-
 <!--
   Se o projeto já tiver testes, descreva aqui, por exemplo:
 
