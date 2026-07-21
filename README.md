@@ -11,17 +11,10 @@ Este projeto foi desenvolvido como peça de portfólio técnico, com o objetivo 
 
 ## 📱 Preview
 
-<!--
-  Adicione aqui screenshots ou um GIF do app rodando.
-  Sugestão: crie uma pasta /docs/screenshots e referencie as imagens assim:
-
 <p align="center">
   <img src="docs/nubank1.jpg" width="220" />
   <img src="docs/nubank2.jpg" width="220" />
 </p>
--->
-
-> 🔧 *Screenshots/GIF em breve.*
 
 ## 🚀 Tecnologias e Pacotes Utilizados
 
