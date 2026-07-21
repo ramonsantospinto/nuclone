@@ -61,8 +61,6 @@ Algumas escolhas de arquitetura e os motivos por trás delas:
   Cobertura atual: XX%
 -->
 
-> 🔧 *Seção de testes em construção — cobertura e instruções serão detalhadas aqui.*
-
 ## 🛠️ Como Executar o Projeto
 
 1. **Clone o repositório:**
